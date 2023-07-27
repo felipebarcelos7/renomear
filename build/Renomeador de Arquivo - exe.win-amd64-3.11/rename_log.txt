@@ -1,0 +1,8 @@
+2023-07-27 18:44:43 - INFO - Arquivo renomeado: 1.pdf -> felipe josué
+2023-07-27 18:44:43 - INFO - Arquivo renomeado: 2.pdf -> rafaela mendes
+2023-07-27 18:46:24 - INFO - Arquivo renomeado: felipe josué.pdf -> felipe josué
+2023-07-27 18:46:24 - INFO - Arquivo renomeado: rafaela mendes.pdf -> rafaela mendes
+2023-07-27 18:49:03 - INFO - Arquivo renomeado: felipe josué.pdf -> felipe josué
+2023-07-27 18:49:03 - INFO - Arquivo renomeado: rafaela mendes.pdf -> rafaela mendes
+2023-07-27 18:49:19 - INFO - Arquivo renomeado: 1.pdf -> felipe josué
+2023-07-27 18:49:19 - INFO - Arquivo renomeado: 2.pdf -> rafaela mendes
